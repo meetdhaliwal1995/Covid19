@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_four" type="id" />
+    <item name="text_three" type="id" />
+    <item name="text_two" type="id" />
+    <item name="text_one" type="id" />
+    <item name="text_five" type="id" />
+    <item name="text_six" type="id" />
+    <item name="text_seven" type="id" />
+    <item name="text_number" type="id" />
+    <item name="text_activenumber" type="id" />
+    <item name="text_death" type="id" />
+    <item name="text_recovered" type="id" />
+    <item name="text_critical" type="id" />
+    <item name="text_tested" type="id" />
+    <item name="text_eight" type="id" />
+    <item name="text_death_ratio" type="id" />
+    <item name="date" type="id" />
+</resources>
